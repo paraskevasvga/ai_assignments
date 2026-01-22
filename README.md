@@ -37,4 +37,4 @@ and careful reasoning about search behavior in large, cyclic state spaces.
 - `cw1.py`: final implementation of the search and heuristic methods
 - `report.pdf`: detailed reasoning, experimental results, and discussion
 - `lab2.py`: provided lab code used for graph construction and utilities
-- `CW1.pdf`: coursework specification (optional)
+- `CW1.pdf`: coursework specification, question 6
